@@ -1,23 +1,34 @@
-def addition(num1, num2)
 
-end
+def addition (num1, num2)
 
-def subtraction(num1, num2)
+addition = num1 + num2
 
-end
+puts "num1 + num2"
 
-def division(num1, num2)
+end 
 
-end
+addition
 
-def multiplication(num1, num2)
 
-end
+#end
 
-def modulo(num1, num2)
+#def subtraction(num1, num2)
 
-end
+#end
 
-def square_root(num)
+#def division(num1, num2)
 
-end
+#end
+
+#def multiplication(num1, num2)
+
+
+#end
+
+#def modulo(num1, num2)
+
+#end
+
+#def square_root(num)
+
+#end
