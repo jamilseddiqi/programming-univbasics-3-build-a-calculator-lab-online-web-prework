@@ -30,12 +30,24 @@ end
 
 multiplication
 
+def modulo (num1, num2)
+
+modulo = num1 - num2
+
+puts "num1 - num2"
+
+end
+
+modulo
 
 
-#def modulo(num1, num2)
+def squares (num1, num2)
 
-#end
+subtraction = num1 - num2
 
-#def square_root(num)
+puts "num1 - num2"
 
-#end
+end
+
+square_root
+
