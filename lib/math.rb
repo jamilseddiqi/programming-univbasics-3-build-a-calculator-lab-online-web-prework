@@ -50,4 +50,3 @@ puts "num1 - num2"
 end
 
 square_root
-
